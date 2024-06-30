@@ -1,4 +1,4 @@
-@media screen and (min-width: 740px) and (max-width: 1027px){
+@media screen and (min-width: 768px) and (max-width: 992px){
     #login {
         width: 700px;
         height: 500px;
@@ -42,7 +42,7 @@
     }
 }
 
-@media screen and (min-width: 1028px){
+@media screen and (min-width: 992px){
     #login {
         height: 500px;
         width: 900px;
