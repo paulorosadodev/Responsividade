@@ -1,0 +1,87 @@
+@media screen and (min-width: 740px) and (max-width: 1027px){
+    #login {
+        width: 700px;
+        height: 500px;
+    }
+
+    #imagem {
+        float: left;
+        height: 100%;
+        width: 30%;
+    }
+
+    #formulario {
+        float: right;
+        width: 70%;
+    }
+
+    #entrar {
+        height: 40px;
+    }
+
+    #logo {
+        max-width: 350px;
+    }
+
+    form {
+        margin: auto;
+        max-width: 440px;
+        margin-top: 30px;
+    }
+
+    form input {
+        height: 25px;
+        border-color: #98299a;
+        border: 1px;
+        border-radius: 5px;
+        padding: 20px 8px;
+    }
+
+    #name {
+        margin-bottom: 10px;
+    }
+}
+
+@media screen and (min-width: 1028px){
+    #login {
+        height: 500px;
+        width: 900px;
+    }
+
+    #imagem {
+        float: left;
+        height: 100%;
+        width: 40%;
+    }
+
+    #formulario {
+        float: right;
+        width: 60%;
+    }
+
+    #logo {
+        max-width: 350px;
+    }
+
+    form {
+        margin: auto;
+        max-width: 440px;
+        margin-top: 30px;
+    }
+
+    form input {
+        height: 25px;
+        border-color: #98299a;
+        border: 1px;
+        border-radius: 5px;
+        padding: 20px 8px;
+    }
+
+    #entrar {
+        height: 40px;
+    }
+
+    #name {
+        margin-bottom: 10px;
+    } 
+}

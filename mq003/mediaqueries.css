@@ -1,0 +1,22 @@
+@media screen and (min-width: 768px) {
+    article {
+        max-width: 63vw;
+    }
+
+    article img {
+        width: 60%;
+    }
+
+    #burguer {
+        display: none;
+    }
+
+    nav {
+        display: block;
+    }
+
+    nav ul {
+        margin-top: 30px;
+        flex-direction: row;
+    }
+}
